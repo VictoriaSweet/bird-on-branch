@@ -1,0 +1,10 @@
+
+.guests { 
+	display: flex; 
+	flex-direction: row; 
+	text-align: center; 
+	color: blue; 
+	height:auto;
+	width: auto; 
+} 
+

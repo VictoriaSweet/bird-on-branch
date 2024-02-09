@@ -1,0 +1,9 @@
+{
+  "short_name": "Victoria's little helper",
+  "name": "Victoria's little helper",
+
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
